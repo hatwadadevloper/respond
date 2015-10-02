@@ -1,6 +1,26 @@
 *{margin:0;padding:0}
 html, body{width:100%;height:100%;font-size:14px;font-family:Arial,sans-serif;background-color:#eee}
 .blue{color:#0087cf}
-.yellow{}
+.yellow{color:#fddb56}
+.back-yellow{background-color:#fddb56}
 .back-blue{background-color:#0087cf}
 .clear,.clear:before,.clear:after{clear:both}
+hr{display: block;border: 0;height: 1px;border-top: 1px solid #ccc;}
+.mauto{margin-left:auto;margin-right:auto}
+.col{width:100%}
+.b0{border:0}
+.m0{margin:0}
+.p0{padding:0}
+.trans{opacity:0.5}
+.hidden{display:none}
+.br0{border-radius:0}
+.white{color:#fff}
+.red{}
+strong,b,.bold{font-weight:bold}
+em,i,.italic{font-style:italic}
+.grey{color:#7e7e7e}
+.back-grey{background-color:#7e7e7e}
+.block{display:block}
+.inline{display:inline}
+.inline-block{display:inline-block}
+.green{}
