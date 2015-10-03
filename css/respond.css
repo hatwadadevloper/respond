@@ -4,8 +4,14 @@ html, body{width:100%;height:100%;font-size:14px;font-family:Arial,sans-serif;ba
 .yellow{color:#fddb56}
 .grey{color:#7e7e7e}
 .white{color:#fff}
+.black{#000}
+.orange{}
 .red{}
+.purple{}
+.back-orange{}
+.back-purple{}
 .back-red{}
+.back-black{background-color:#000}
 .back-white{background-color:#fff}
 .back-grey{background-color:#7e7e7e}
 .back-yellow{background-color:#fddb56}
@@ -29,3 +35,7 @@ em,i,.italic{font-style:italic}
 .block{display:block}
 .inline{display:inline}
 .inline-block{display:inline-block}
+.fixed{position:fixed}
+.relative{position:relative}
+.absolute{position:absolute}
+.invisible{opacity:0}
